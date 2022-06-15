@@ -16,4 +16,4 @@
 
 # Website Preview
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://i.imgur.com/UaAafB1.png)
