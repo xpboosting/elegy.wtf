@@ -13,3 +13,7 @@
 - Added Reddit as socials
 - Added CashApp as socials
 - Fixed email
+
+# Website Preview
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
